@@ -1,0 +1,23 @@
+{
+  "name": "hello_microverse_project",
+  "version": "1.0.0",
+  "description": "hello_microverse_project is a basic Microverse project to familiarize with GitHub workflow and create professional repositories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgeabrahan/hello_microverse_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgeabrahan/hello_microverse_project/issues"
+  },
+  "homepage": "https://github.com/jorgeabrahan/hello_microverse_project#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
+}
