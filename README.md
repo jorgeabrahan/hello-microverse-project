@@ -3,11 +3,10 @@
 hello_microverse_project is a basic Microverse project to familiarize with GitHub workflow and create professional repositories.
 
 ## Built With
------------------------------
 
 ### Tech Stack
 
-Client
+__Client__
 - HTML
 - CSS
 
@@ -21,8 +20,8 @@ Client
 
 ### Prerequisites
 
-- Install Git CLI to clone the repository.
-- Install a code editor to open the cloned repository.
+- Install [Git CLI](https://git-scm.com/downloads) to clone the repository.
+- Install a [code editor](https://code.visualstudio.com/download) to open the cloned repository.
 
 ### Usage
 
@@ -36,4 +35,4 @@ Once you've cloned the repository and you have it opened in your code editor, si
 
 ## License
 
-This project is MIT licensed.
+This project is __MIT__ licensed.
